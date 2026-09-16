@@ -1,0 +1,4 @@
+*.class
+bin/
+*.ctxt
+package.bluej
