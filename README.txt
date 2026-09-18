@@ -2,7 +2,7 @@
 
 A java application for managing a tool/equipment hire shop, 
 including inventory, customers, and reservations, built as 
-a first year university coursework project.
+a first year university coursework project. (scored 78%)
 
 [Purpose]
 
